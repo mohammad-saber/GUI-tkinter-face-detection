@@ -3,13 +3,13 @@ GUI made by python library "tkinter " to play video files, detect human face, an
 
 
 ## Dependencies:
-•	Python 3.6.4
+* Python 3.6.4
 
-•	OpenCV 4.1.0
+* OpenCV 4.1.0
 
-•	tkinter 8.6
+* tkinter 8.6
 
-•	PIL 5.0.0
+* PIL 5.0.0
 
 
 
@@ -27,17 +27,17 @@ Then, save it in the folder where this repository is saved on your PC.
 
 After you run this code, a GUI will be opened which includes following buttons:
 
-Select video file: Browse and open a video file. This code supports "mp4" and "avi" formats.
+**Select video file:** Browse and open a video file. This code supports "mp4" and "avi" formats.
 
-Play
+**Play** 
 
-Pause
+**Pause**
 
-Record: Start face detection and saving detected face as a video file in the folder where this repository is saved on your PC. 
+**Record: Start face detection and saving detected face as a video file in the folder where this repository is saved on your PC. 
 
-Stop recording: Stop face detection.
+**Stop recording:** Stop face detection.
 
-Snapshot: Save current frame as an image file. 
+**Snapshot:** Save current frame as an image file. 
 
 
 ## Note:
