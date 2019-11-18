@@ -2,7 +2,7 @@
 GUI made by python library "tkinter " to play video files, detect human face, and save detected face as a video file.
 
 
-# Dependencies:
+## Dependencies:
 •	Python 3.6.4
 
 •	OpenCV 4.1.0
@@ -23,7 +23,7 @@ https://github.com/opencv/opencv/tree/master/data/haarcascades
 Then, save it in the folder where this repository is saved on your PC. 
 
 
-# How to use:
+## How to use:
 
 After you run this code, a GUI will be opened which includes following buttons:
 
@@ -40,7 +40,7 @@ Stop recording: Stop face detection.
 Snapshot: Save current frame as an image file. 
 
 
-# Note:
+## Note:
 I only tested with a video file including only one human face. 
 
 
