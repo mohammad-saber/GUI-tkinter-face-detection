@@ -3,13 +3,14 @@ GUI made by python library "tkinter " to play video files, detect human face, an
 
 
 # Dependencies:
-Python 3.6.4
+•	Python 3.6.4
 
-OpenCV 4.1.0
+•	OpenCV 4.1.0
 
-tkinter 8.6
+•	tkinter 8.6
 
-PIL 5.0.0
+•	PIL 5.0.0
+
 
 
 OpenCV face detector:
