@@ -33,7 +33,7 @@ After you run this code, a GUI will be opened which includes following buttons:
 
 **Pause**
 
-**Record: Start face detection and saving detected face as a video file in the folder where this repository is saved on your PC. 
+**Record:** Start face detection and saving detected face as a video file in the folder where this repository is saved on your PC. 
 
 **Stop recording:** Stop face detection.
 
